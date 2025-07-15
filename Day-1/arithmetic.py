@@ -1,0 +1,10 @@
+a =2
+b=3
+sum = a+b
+sub = a-b
+mult = a*b
+divide = a/b
+print(F"the sum of {a}+{b} = {sum}")
+print(F"the sub of {a}-{b} = {sub}")
+print(F"the mult of {a}*{b} = {mult}")
+print(F"the divide of {a}/{b} = {divide}")
