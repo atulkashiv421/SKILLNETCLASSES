@@ -49,3 +49,11 @@ Each folder contains a simple `Hello, World!` example with instructions.
   <img src="https://github.com/atulkashiv421/SKILLNETCLASSES/tree/main">
 </p>
 
+<model-viewer 
+  src="https://yourusername.github.io/your-repo-name/models/yourmodel.glb"
+  alt="3D model"
+  auto-rotate
+  camera-controls
+  style="width: 100%; height: 400px;">
+</model-viewer>
+
