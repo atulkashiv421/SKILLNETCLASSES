@@ -43,9 +43,9 @@ Each folder contains a simple `Hello, World!` example with instructions.
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <p align="center">
-  <img src="https://github.com/atulkashiv421/SKILLNETCLASSES">
+  <img src="https://github.com/atulkashiv421/SKILLNETCLASSES/tree/main">
 </p>
 
