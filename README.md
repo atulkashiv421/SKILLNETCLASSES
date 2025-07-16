@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/c38d760d-cd2c-485d-9ff7-229c08b9e768)
+https://github.com/user-attachments/assets/c55a5c95-bdd6-4f26-b71b-617c5aa88d7b
 
 <h1 align="center">👨‍💻 The C Family & Python Playground 🐍</h1>
 
