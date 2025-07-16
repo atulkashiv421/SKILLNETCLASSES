@@ -1,28 +1,46 @@
 # SKILLNETCLASSES
-# Project Title
+<h1 align="center">👨‍💻 The C Family Playground 👩‍💻</h1>
 
-A brief description of what this project does and who it's for.
+<p align="center">
+  A curated collection of code examples in <strong>C</strong>, <strong>C++</strong>, <strong>C#</strong>, and <strong>Objective-C</strong>.
+</p>
 
-## 🚀 Features
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue" />
+  <img src="https://img.shields.io/badge/Language-C++-brightgreen" />
+  <img src="https://img.shields.io/badge/Language-C%23-purple" />
+  <img src="https://img.shields.io/badge/Language-Objective--C-lightgrey" />
+</p>
 
-- Feature 1
-- Feature 2
-- Feature 3
+---
 
-## 🛠️ Tech Stack
+## 🧬 Languages Covered
 
-- Language: e.g., Python, JavaScript
-- Framework: e.g., React, Django
-- Tools: e.g., Docker, Git, Postman
+| Language | Logo | File |
+|----------|------|------|
+| C        | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | [`hello.c`](C/hello.c) |
+| C++      | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | [`hello.cpp`](C++/hello.cpp) |
+| C#       | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) | [`HelloWorld.cs`](C#/HelloWorld.cs) |
+| Objective-C | ![Obj-C](https://upload.wikimedia.org/wikipedia/commons/6/61/Objective-C_Logo.svg) | [`hello.m`](Objective-C/hello.m) |
 
-## 📦 Installation
+---
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+## ✨ Why This Repo?
 
-# Navigate to the project directory
-cd your-repo-name
+Because C isn't just a language — it's a **legacy**, a **paradigm**, and a **bridge** between modern software and its roots.
 
-# Install dependencies (adjust as needed)
-npm install
+---
+
+## 🛠️ Run It Yourself
+
+Each folder contains a simple `Hello, World!` example with instructions.
+
+🧪 See [`README.md`](README.md) in each subfolder for compile/run steps.
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/assets/sample-code-preview.png" width="600" alt="Code Preview">
+</p>
