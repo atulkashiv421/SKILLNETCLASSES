@@ -46,6 +46,6 @@ Each folder contains a simple `Hello, World!` example with instructions.
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/assets/sample-code-preview.png" width="600" alt="Code Preview">
+  <img src="https://github.com/atulkashiv421/SKILLNETCLASSES">
 </p>
 
